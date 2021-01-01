@@ -1,1 +1,1 @@
-module "github.com/gin-gonic/gin"
+module "github.com/cd871127/go-util"
