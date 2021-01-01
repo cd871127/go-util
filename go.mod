@@ -1,1 +1,1 @@
-module "github.com/cd871127/go-util"
+module github.com/cd871127/go-util
